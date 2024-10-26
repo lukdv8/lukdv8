@@ -1,4 +1,4 @@
-## Hi there 👋
+![Imagem](https://assets.uninove.br/headers/Programa%C3%A7%C3%A3o-para-web-Highlight.jpg?mtime=20201113122932&focal=none)
 
 <!--
 **lukdv8/lukdv8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
